@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dbbc98;
+}
+
+.azul {
+    background-color: #9DBCE3;
+    border: solid 1px rgb(0, 0, 0);
+}
+
+.alturaslinder{
+    height: 500px;
+}
+
+.alturasection{
+    height: 300px;
+} 
